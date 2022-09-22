@@ -1,0 +1,150 @@
+*{
+	
+	margin:0;
+	padding:0;
+	border:0;
+}
+body{
+	color:rgb(28,28,28);
+	font-size:1.3rem;
+	text-align:center;
+	background-color:rgb(230,230,250);
+	margin:7px;
+	padding:5px;
+	border:solid black 6px;
+}
+.txt{
+	color:rgb(25,25,112);
+	font-size:30px;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	padding:5px;
+}
+h2{
+	font-size:20px;
+	font-family: 'Ubuntu', sans-serif;
+}
+#title{
+	color:rgb(0 0 0);
+	background-color:transparent;
+	text-decoration:underline overline;
+	text-decoration-thickness:2px;
+	text-decoration-color:rgb(0 0 0);
+	padding:3px;
+}
+header{
+	display:flex;
+	align-items:top;
+	justify-content:space-evenly;
+	background-image:url('imagens/salaplanejada.webp');
+	width:100%;
+	height:500px;
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:center;
+	margin-left:auto;
+	margin-right:auto;
+	padding-top:3rem;
+	text-decoration:underline overline;
+	text-decoration-thickness:2px;
+	text-decoration-color:rgb(255 255 255);
+	padding-bottom:2px;
+}
+#cabec1{
+	background-color:rgb(230,230,250);
+}
+#pah{
+	background-image:url('imagens/cozinha planejada.jpg');
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:center;
+	
+}
+.link{
+	color:rgb(255 255 255);
+	font-size:30px;
+	display:flex;
+	justify-content:space-around;
+}
+h3{
+	color:rgb(79,79,79);
+	text-decoration:underline;
+	text-decoration-thickness:2px;
+	text-decoration-color:rgb(79,79,79);
+}
+.titulosdt{
+	background-color:rgb(222 184 135);
+	color:rgb(25,25,112);
+	border:1px solid black;
+	width:100%;
+	margin:0 auto;
+}
+.elem{
+	border:1px solid black;
+	background-color:rgb(255 218 185);
+	color:rgb(25,25,112);
+	margin:0 auto;
+}
+#princ{
+	border:3px solid black;
+	border-collapse:collapse;
+	
+}
+#legenda{
+	background-color:rgb(0 0 0);
+	color:rgb(255 255 255);
+	font-family:Century Gothic;
+}
+#inf{
+	display:flex;
+	align-items:center;
+	justify-content:center;
+}
+#inf th{
+	background-color:rgb(216,191,216);
+	color:rgb(0 0 0);
+	border:1px solid black;
+	width:100%;
+	margin:0 auto;
+}
+#inf td{
+	border:1px solid black;
+	background-color:rgb(176,224,230);
+	color:rgb(0 0 0);
+	margin:0 auto;
+}
+#rodape1{
+	background-color:rgb(216,191,216);
+	color:rgb(75,0,130);
+}
+.rodape2{
+	color:rgb(25,25,112);
+	background-color:rgb(250,240,230);
+}
+#bckgr{
+	background-image:url('imagens/plano de fundo.jpg');
+	background-repeat:no-repeat;
+	background-size:cover;
+	backposition:center;
+}
+#bckgr2{
+	background-image:url('imagens/plano de fundo 2.webp');
+	background-repeat:no-repeat;
+	background-size:cover;
+	backposition:center;
+}
+.titbr{
+	font-family: 'Roboto Condensed', sans-serif;
+	text-decoration:underline;
+	text-decoration-thickness:2px;
+	text-decoration-color:black;
+	font-weight:600;
+}
+#infop{
+	
+}
+menu{
+	display:grid;
+	grid-template-columns:
+}
