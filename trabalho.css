@@ -55,7 +55,7 @@ header{
 	background-color:rgb(230,230,250);
 }
 #pah{
-	background-image:url('imagens/cozinha planejada.jpg');
+	background-image:url('imagens/cozinhaplanejada.jpg');
 	background-repeat:no-repeat;
 	background-size:cover;
 	background-position:center;
@@ -123,13 +123,13 @@ h3{
 	background-color:rgb(250,240,230);
 }
 #bckgr{
-	background-image:url('imagens/plano de fundo.jpg');
+	background-image:url('imagens/planodefundo.jpg');
 	background-repeat:no-repeat;
 	background-size:cover;
 	backposition:center;
 }
 #bckgr2{
-	background-image:url('imagens/plano de fundo 2.webp');
+	background-image:url('imagens/planodefundo2.webp');
 	background-repeat:no-repeat;
 	background-size:cover;
 	backposition:center;
